@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="chart-application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/chart-application.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Javaki2/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
